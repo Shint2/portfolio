@@ -17,12 +17,12 @@ title = "Reece's Portfolio"
  [params.author]
    name = "Reece Williams"
    email = "reecewilliams2009@hotmail.co.uk"
-   image = "img/blowfish_logo.png"
+   image = "author-picture.png"
    imageQuality = 96
    headline = "I'm only human"
    bio = "A little bit about you"
    links = [
-#     { email = "mailto:hello@your_domain.com" },
+     { email = "mailto:reecewilliams2009@hotmail.co.uk" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },

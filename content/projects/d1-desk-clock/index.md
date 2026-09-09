@@ -33,4 +33,4 @@ It houses both boards and allows you to plug in the USB cable into the pico from
 
 The case is split into two parts one that houses both PCBs and one that covers the upper PCB so there is a nice unified surface. The upper case part also is where I mounted a switch to turn off/on the screen, as this was located in my room I thought that being able to turn off the display would be a good option. With it being 3D printed I made use of heat insets so that screws could be used to hold all these parts together.
 
-![Case front](time.png)
+![Case front](time.jpg)
