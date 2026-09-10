@@ -1,7 +1,7 @@
 ---
 title: "Projects"
-description: "Learn about some of my projects."
+description: "Learn about my personal projects."
 cascade:
   showReadingTime: false
 ---
-This section contains all my personal projects.
+My personal projects.
