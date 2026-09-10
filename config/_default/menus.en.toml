@@ -15,16 +15,16 @@
   pageRef = "projects"
   weight = 10
 
-[[main]]
-  name = "D1 Desk Clock"
-  parent = "Projects"
-  pageRef = "d1-desk-clock"
-  weight = 10
+#[[main]]
+  #name = "D1 Desk Clock"
+  #parent = "Projects"
+  #pageRef = "d1-desk-clock"
+  #weight = 10
 
-[[main]]
-  name = "About me"
-  pageRef = "about-me"
-  weight = 20
+#[[main]]
+ # name = "About me"
+ # pageRef = "about-me"
+ # weight = 20
 
 #[[subnavigation]]
 #  name = "An interesting topic"
